@@ -1,0 +1,117 @@
+{
+	"users":[
+    {
+    	"id":1,
+    	"name":"ana",
+    	"surname":"mustafa",
+    	"photo_url":"https://cdn-icons-png.flaticon.com/256/8859/8859826.png",
+    	"balance":1500
+    },
+     {
+    	"id":2,
+    	"name":"andrei",
+    	"surname":"mustafa",
+    	"photo_url":"https://cdn-icons-png.flaticon.com/256/8859/8859826.png",
+    	"balance":2500
+    },
+     {
+    	"id":3,
+    	"name":"dan",
+    	"surname":"mustafa",
+    	"photo_url":"https://cdn-icons-png.flaticon.com/256/8859/8859826.png",
+    	"balance":500
+    }
+
+	],
+	"products":[
+     {
+     	"id":1,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata cu prune",
+     	"price":300,
+     	"author_id":1,
+     	"photo_url":"https://fruvit.md/wp-content/uploads/2025/02/Prune-Fruvit-in-ciocolata.jpg"
+     },
+     {
+      	"id":2,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata cu alune",
+     	"price":400,
+     	"author_id":1,
+     	"photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2gEoXrYZgC8qXR-Zaa5g7LZeyF6-TWqgQtA&s"
+     },
+  {
+      	"id":3,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata cu capsuni",
+     	"price":200,
+     	"author_id":1,
+     	"photo_url":"https://germancorner.ro/cdn/shop/files/image_2023-04-28_125353693.png?v=1682675637"
+     },
+	{
+	"id":4,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata bucurel",
+     	"price":500,
+     	"author_id":1,
+     	"photo_url":"https://linella.md/public/products/06c5ac52ad31aa166c45b6ba82ea9aa3.webp"
+     },
+{
+	"id":4,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata bucurel",
+     	"price":500,
+     	"author_id":1,
+     	"photo_url":"https://linella.md/public/products/06c5ac52ad31aa166c45b6ba82ea9aa3.webp"
+     },
+{
+	"id":5,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata bucurel",
+     	"price":500,
+     	"author_id":1,
+     	"photo_url":"https://linella.md/public/products/06c5ac52ad31aa166c45b6ba82ea9aa3.webp"
+     },
+{
+	"id":6,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata bucurel",
+     	"price":500,
+     	"author_id":1,
+     	"photo_url":"https://linella.md/public/products/06c5ac52ad31aa166c45b6ba82ea9aa3.webp"
+     },
+{
+	"id":7,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata bucurel",
+     	"price":500,
+     	"author_id":1,
+     	"photo_url":"https://linella.md/public/products/06c5ac52ad31aa166c45b6ba82ea9aa3.webp"
+     },
+{
+	"id":8,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata bucurel",
+     	"price":500,
+     	"author_id":1,
+     	"photo_url":"https://linella.md/public/products/06c5ac52ad31aa166c45b6ba82ea9aa3.webp"
+     },
+{
+	"id":9,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata bucurel",
+     	"price":500,
+     	"author_id":1,
+     	"photo_url":"https://linella.md/public/products/06c5ac52ad31aa166c45b6ba82ea9aa3.webp"
+     },
+{
+	"id":10,
+     	"name":"chisinau de seara",
+     	"description":"ciocolata bucurel",
+     	"price":500,
+     	"author_id":1,
+     	"photo_url":"https://linella.md/public/products/06c5ac52ad31aa166c45b6ba82ea9aa3.webp"
+     }
+
+ ]
+}        
